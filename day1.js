@@ -12,7 +12,7 @@
 function go(){
     // type coercion
     // string has highest priority
-    // number
+    // number has second priority
     // null=0
     // NaN=not a no.
     // var a=5;             //
