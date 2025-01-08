@@ -127,38 +127,7 @@ function go ()
 //  else{
 //      alert("not completed"); 
 //   }
-// question=10
-let a = prompt("Enter a day of the week (1 for Monday, 2 for Tuesday, etc.):");
-a = parseInt(a);
 
-switch(a)
- {
-    if(a==1)
-        console.log("Monday");
-        break;
-        if(a==2)
-            console.log("tuesday");
-            break;
-            if(a==3)
-                console.log("wednesday");
-                break;
-                if(a==4)
-                    console.log("thursday");
-                    break;
-                    if(a==5)
-                        console.log("friday");
-                        break;
-                        if(a==6)
-                            console.log("saturday");
-                            break;
-                            if(a==7)
-                                console.log("sunday");
-                                break;
-        else
-        {
-            console.log("Invalid input! Please enter a number between 1 and 7.");
-            break;
-        }
 }
 
 go();
