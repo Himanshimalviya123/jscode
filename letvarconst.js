@@ -127,6 +127,39 @@ function go ()
 //  else{
 //      alert("not completed"); 
 //   }
+// question=8===================while==============
+// let i=1;
+// while(i<=10)
+// {
+//     console.log(i);
+    
+// }
+// question=9===================do while 
+//  let ans;
+
+do{
+ ans=parseInt(prompt("enter number"))
+    }
+    while(ans<=10)
+// question=10================switch case==========================
+// let day=parseInt(prompt("enter a day of the week (1-7)"))
+// switch(day){
+//   case 1:{alert("monday")
+//    break;}
+//    case 2:alert("tuesday")
+//     break;
+//     case 3: alert("wednesday")
+//     break;
+//     case 4: alert("thursday")
+//    break;
+//    case 5: alert("friday")
+//   break;
+//    case 6:alert("saturday")
+//   break;
+//     case 7: alert("sunday")
+//    break;
+//   default:alert("invalid input")
+// }
 
 }
 
