@@ -1,17 +1,17 @@
- function shivani()
- {
-         alert("hello")
+//  function shivani()
+//  {
+//          alert("hello")
 
-}// shivani();
- function ram()
-{
-     alert("fine")
+// }// shivani();
+//  function ram()
+// {
+//      alert("fine")
 
- }
- // ram();
-function shikha()
-{
-    alert("hyyyyy")
+//  }
+//  // ram();
+// function shikha()
+// {
+//     alert("hyyyyy")
 
-}
-//shikha();
+// }
+// //shikha();
