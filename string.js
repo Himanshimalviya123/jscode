@@ -31,15 +31,16 @@ function tanisha(){
 // let text="JavaScriptIsEasy";
 // document.write(text.slice(4,13))
 // document.write(text.length)================to check the length of the string
-//  let text1="himanshi;"
+ let text1="himanshi;"
 //  let text1="malviya";
 // document.write(text1.concat(text2))
 // document.write(text.toLowerCase(text))
 
 // document.write(text.toUpperCase(text))
-// document.write(text1.replaceAll(text1))  ==============undifened=======================
-// document.write(text1.charAt(text1))   ==================first leeter show
-// document.write(text1.charCodeAt(text1))====================char code 109================
+//  document.write(text1.replaceAll(sakshi))  
+//  document.write(text1.charAt(5))  
+  document.write(text1.indexOf("a"))
+//   document.write(text1.split("a"))
 
 }
 
