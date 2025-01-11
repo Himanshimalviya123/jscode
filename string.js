@@ -37,15 +37,21 @@ function tanisha(){
 // document.write(text.toLowerCase(text))
 
 // document.write(text.toUpperCase(text))
-let text="i am learning Javascript and Javascript is fun javascript"
+// let text="i am learning Javascript and Javascript is fun javascript"
 //   document.write(text.replace("Javascript","js"))===========replace the word=====================
 // document.write(text.replace(/Javascript/g,"js"))  global=>g
 // document.write(text.replace(/Javascript /gi,"js")) =================== case in sensitive=i=============
 
 //  document.write(text1.charAt(5))  ====================sky value return
 //   document.write(text1.indexOf("a"))==============to check the index no. of the char
-//   document.write(text1.split("a"))
+// let text="i am learning Javascript and Javascript is fun javascript"
+// let text="i am learning-Javascript and-Javascript is fun javascript"
+// document.write(text.split("-"))
+
+let text="i am learning* Javascript and Javasc*ript is fun* javascript"
+   document.write(text.split("*"))
 // document.write(text1.charCodeAt())
+// let arr=[2,4,5,6,6,"color"]    ===================array==================
 
 }
 
