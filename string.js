@@ -48,11 +48,35 @@ function tanisha(){
 // let text="i am learning-Javascript and-Javascript is fun javascript"
 // document.write(text.split("-"))
 
-let text="i am learning* Javascript and Javasc*ript is fun* javascript"
-   document.write(text.split("*"))
+// let text="i am learning* Javascript and Javasc*ript is fun* javascript"
+//    document.write(text.split("*"))
 // document.write(text1.charCodeAt())
 // let arr=[2,4,5,6,6,"color"]    ===================array==================
+// TEMPLATE  letrals
+// let text=`JAVA"SCRIPT" 'is' easy`;
+// alert(text)
+// supports single qoutes(``) and double quotes  **********************************
+// let text=`javascript
+// 'is'easy`
 
+// let text=`javascript <h1>is</h1> easy`
+
+
+// document.write(text)
+// supports multiline string     *****************************************
+// supports html tag************************************
+// let name="sid";
+// let age=25;
+// let ans="hello "+name+ "and your age is"+age;
+// let ans =`hello ${name} and your age is ${age}`
+// console.log(ans);
+// let name="   sid      kj    opo[]    " ======================select the trim function====================
+// console.log(name.trim());
+
+// show dynamic value
+// supports
+
+// =========================string end================================================================================
 }
 
 
