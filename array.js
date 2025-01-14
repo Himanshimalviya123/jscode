@@ -41,7 +41,7 @@ function himanshi(){
 
 //  console.log(aar1);
 
-let aar1=[1,3,7,6,2,4,5]
-console.log(aar1.sort);
+// let aar1=[1,3,7,6,2,4,5]
+// console.log(aar1.sort);
 
 }
