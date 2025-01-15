@@ -5,12 +5,17 @@ function go ()
 // var age= 26;
 // var age =28;
 // console.log(age);
+// {
 // let a=56;
 // let a=58;
-
+// console.log(a);
+// }
 // const a=46;
-// const a=46;
-// =====================reassignment===================
+// {
+//  const a=46;
+// console.log(a);
+// }
+//  =====================reassignment===================
 // var a=4;
 // a=78;
 // a=59;
@@ -30,7 +35,7 @@ function go ()
 
 // {
 //     var a=7;
-//     // console.log(a);
+//  console.log(a);
     
 
 // }
@@ -137,10 +142,10 @@ function go ()
 // question=9===================do while 
 //  let ans;
 
-do{
- ans=parseInt(prompt("enter number"))
-    }
-    while(ans<=10)
+// do{
+//  ans=parseInt(prompt("enter number"))
+//     }
+//     while(ans<=10)
 // question=10================switch case==========================
 // let day=parseInt(prompt("enter a day of the week (1-7)"))
 // switch(day){
