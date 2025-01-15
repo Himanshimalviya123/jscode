@@ -146,6 +146,7 @@ function go ()
 //  ans=parseInt(prompt("enter number"))
 //     }
 //     while(ans<=10)
+
 // question=10================switch case==========================
 // let day=parseInt(prompt("enter a day of the week (1-7)"))
 // switch(day){
