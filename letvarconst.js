@@ -2,9 +2,9 @@ function go ()
 {
     // =====================redecleration=========================
 //var let const
-// var age= 26;
-// var age =28;
-// console.log(age);
+//  var age= 26;
+//  var age =28;
+//  console.log(age);
 // {
 // let a=56;
 // let a=58;
