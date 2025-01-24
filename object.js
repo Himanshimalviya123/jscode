@@ -31,11 +31,11 @@
 // }
 // go()
 
-let go=(name,age)=>{
-    console.log (`hello i am ${name} and sge is ${age}`);
-  let text=document.querySelector('#show')
+// let go=(name,age)=>{
+//     console.log (`hello i am ${name} and sge is ${age}`);
+//   let text=document.querySelector('#show')
 //   text.innerHTML=`Hello i am sid ${name} and age is ${age}`
-}
+
     
     go()
     // let sub=()=>{
