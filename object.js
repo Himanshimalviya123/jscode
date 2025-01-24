@@ -25,8 +25,24 @@
 //     }
 // )()
 // **********************arrow function(=>) /special type of anonymous function**************************
-let go=()=>{
-console.log("arrow");
+// let go=()=>{
+// console.log("arrow");
 
+// }
+// go()
+
+let go=(name,age)=>{
+    console.log (`hello i am ${name} and sge is ${age}`);
+  let text=document.querySelector('#show')
+//   text.innerHTML=`Hello i am sid ${name} and age is ${age}`
 }
-go()
+    
+    go()
+    // let sub=()=>{
+    //     document.querySelector("#inp").Value;
+    //     alert( `hello ${inptext}`)
+
+
+
+    // }
+    // sub()
