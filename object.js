@@ -37,12 +37,22 @@
 //   text.innerHTML=`Hello i am sid ${name} and age is ${age}`
 
     
-    go()
+  //  go()
     // let sub=()=>{
     //     document.querySelector("#inp").Value;
     //     alert( `hello ${inptext}`)
+// }
+     let ok=()=>{
+        // let text=document.querySelector("#inp").value;
+        //  document.body.style.backgroundColor=text
+        let text=document.querySelector("#inp");
+        text.style.color="black"
+        document.body.style.backgroundColor="white"
+     }
+     let okk=()=>{
+        let text=document.querySelector("#inp");
+        text.style.color="red"
+        document.body.style.backgroundColor="black"
 
-
-
-    // }
+     }
     // sub()
