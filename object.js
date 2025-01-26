@@ -42,17 +42,26 @@
     //     document.querySelector("#inp").Value;
     //     alert( `hello ${inptext}`)
 // }
-     let ok=()=>{
+   //   let ok=()=>{
         // let text=document.querySelector("#inp").value;
         //  document.body.style.backgroundColor=text
-        let text=document.querySelector("#inp");
-        text.style.color="black"
-        document.body.style.backgroundColor="white"
-     }
-     let okk=()=>{
-        let text=document.querySelector("#inp");
-        text.style.color="red"
-        document.body.style.backgroundColor="black"
+   //      let text=document.querySelector("#inp");
+   //      text.style.color="black"
+   //      document.body.style.backgroundColor="white"
+   //   }
+   //   let okk=()=>{
+   //      let text=document.querySelector("#inp");
+      //   text.style.color="red"
+      //   document.body.style.backgroundColor="black"
 
-     }
+   //   }
     // sub()
+    let ram=()=>{
+     let change= document.querySelector("#new")
+     if(change.style.display==='none'){
+     change.style.display='block';
+     }
+     else{
+      change.style.display='none';
+     }
+    }
