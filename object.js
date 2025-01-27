@@ -56,12 +56,43 @@
 
    //   }
     // sub()
-    let ram=()=>{
-     let change= document.querySelector("#new")
-     if(change.style.display==='none'){
-     change.style.display='block';
-     }
-     else{
-      change.style.display='none';
-     }
+   //   let ram=()=>{
+   //   let change= document.querySelector("#new")
+   //   if(change.style.display==='none'){
+   //   change.style.display='block';
+   //   }
+   //   else{
+   //    change.style.display='none';
+   //   }
+   //  }
+   // let ram=()=>{
+
+   // let change=document.querySelector("#new")
+   // jk='click me';
+   // if(jk==show)
+   // {
+   //    change.innerHTML='show';
+   // }
+   // else{
+   //    change.innerHTML='hide';  
+   // }
+   //  }
+   //  let hide1=()=>{
+   //    if(jk)
+   //       {
+   //          change.innerHTML='hide';
+   //       }
+   //       else{
+   //          change.innerHTML='show';  
+   //       }
+   //     }
+   let tog=()=>{
+    let Text=  document.querySelector("#text")
+    if(Text.Style.display==="none"){
+      Text.style.display="block"
     }
+    else{
+      Text.Style.display="none"
+
+    }
+   }
