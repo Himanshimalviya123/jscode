@@ -1,5 +1,5 @@
-function sakshi()
-{
+// function sakshi()
+// {
     // ===========================redeclaration================================
     
     // var a=6;
@@ -22,7 +22,7 @@ function sakshi()
     // const a=7;
     // console.log(a);
     
-}
+
 // ================================uestion 1===============================
 // let age =prompt("enter your age")
 // {
@@ -72,4 +72,46 @@ function sakshi()
 
     
 
-sakshi();
+// sakshi();
+
+
+// =================================================================
+// let a= [2,3,5,6,7,8];
+// let ans=a.map((e)=>{
+// return e*2
+// })
+// console.log(ans);
+// let abc=[7,9,4,9,6,8];
+// let pvc=abc.forEach((e)=>{
+      
+//       console.log(e*2);
+      
+// })
+// let abc=[7,9,4,9,6,8];
+// let pvc=abc.filter((e)=>{
+//       return e*2;
+     
+// })
+// console.log(pvc);
+// ===========================array of objrct======================================
+let aoo=[{ 
+    name:"sid",
+    age:25,
+    city:"bopal",
+},
+{
+    name:"sid",
+    age:25,
+    city:"bopal",
+},
+{
+    name:"sid",
+    age:25,
+    city:"bopal",
+}]
+let ans=aoo.map((e)=>{
+    return e.name
+})
+console.log(ans);
+
+
