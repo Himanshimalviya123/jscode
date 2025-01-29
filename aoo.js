@@ -31,14 +31,57 @@ let aoo=[{
 },
 {
     name:"himanshi",
-    age:20,
+    age:22,
+    city:"pune",
+},
+{
+    name:"shubham",
+    age:25,
     city:"indore",
+
+
 },
 {
     name:"sakshi",
     age:15,
     city:"pune",
-}]
+},
+{
+    name:"sonu",
+    age:15,
+    city:"pune",
+},
+{
+    name:"pratik",
+    age:15,
+    city:"nagpur",
+},
+{
+    name:"tushar",
+    age:35,
+    city:"hyderabad",
+},
+{
+    name:"soumya",
+    age:26,
+    city:"betul",
+},
+{
+    name:"khushal",
+    age:45,
+    city:"chennai",
+},
+{
+    name:"era",
+    age:36,
+    city:"pune",
+},
+{
+    name:"likhit",
+    age:25,
+    city:"kolkata",
+}
+]
 //  ans=aoo.map((e)=>{
 //     return e.name+e.age+e.city
 // })
