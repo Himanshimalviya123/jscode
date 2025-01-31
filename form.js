@@ -40,11 +40,21 @@ let sub=()=>{
                     
                     return false;
                 }
+
                 if(inpcpass=="")
                     {
                         errcpass.innerHTML="please fill the name field"
                         errcpass.style.color="red"
                         
+                        return false;
+                    }
+                    if(inppassword==inpcpass)
+                    {
+                        return true;
+                    }
+                    else{
+                        errorcpass.innerHTML="passord incorrect"
+                        errorcpass.style.color="red"
                         return false;
                     }
                     

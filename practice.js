@@ -40,7 +40,9 @@ let erryear=document.querySelector("#erroryear")
 let erruniversity=document.querySelector("#erroruniversity")
 
 if(inputname=="")
+{
     errname.innerHTML="please fill the name"
-errname.Style.color="red"
-return false;
+    errname.Style.color="red"
+    return false;
+}
 }
