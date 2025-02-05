@@ -26,14 +26,14 @@
 // console.log(ans);
 let shiv=()=>{
 
-let inputname=document.querySelector("#name").value
+let inputname=document.querySelector("#name").value;
 let inputage=document.querySelector("#age").value
 let inputcourse=document.querySelector("#course").value
 let inputyear=document.querySelector("#year").value
 let inputuniversity=document.querySelector("#university").value
 
 
-let errname=document.querySelector("#errorname")
+let errname=document.querySelector("#errorname");
 let errage=document.querySelector("#errorage")
 let errcourse=document.querySelector("#errorcourse")
 let erryear=document.querySelector("#erroryear")
