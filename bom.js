@@ -95,13 +95,43 @@
 // console.log(age);
 // var age=76;
 // ==================================================string==========
-let abc="cybrom is a technology institute"
- console.log(abc);
+// let abc="         cyBrom is a technology institute cyBrom cyBrom cyBrom                      "
+//  console.log(abc);
  
 // document.write(abc.length)
 // document.write(abc.slice(3,9))
-let pvc="in bhopal"
+// let pvc="in bhopal"
 // document.write(abc.concat(pvc))
 // console.log(abc.concat(pvc));
-document .write
+// document .write(abc.substring(2,8))
+// document.write(abc.replace("technology","cyBrom"))
+// document.write(abc.replaceAll("cyBrom","cb"))
+// document.write(abc.toLowerCase(""))
+// document.write(abc.toUpperCase(""))
+// document.write(abc.trim())
+// console.log(abc.trim());
+// ===================================================array====method===================
+
+let abc=["Apple","mango","orange","banana"]
+console.log(abc)
+// document.write(abc.length)
+// abc.pop()
+// console.log(abc);
+
+// abc.push("papaya","grapes")
+// console.log(abc);
+// abc.shift()
+// console.log(abc);
+// abc.unshift("pears")
+// console.log(abc);
+// \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\concat\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+let pvc=[1,3,6,78]
+let efg=["food","vegetable"]
+// console.log(abc.concat(pvc));
+// console.log(abc+ pvc);
+// console.log(abc.concat(pvc,efg));
+// console.log(abc.reverse());
+
+
+
 
