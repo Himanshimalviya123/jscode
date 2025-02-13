@@ -23,15 +23,15 @@ function himanshi(){
 // ==================================reverse method=============================
 
 
-//  let aar1=["apple","mango","banana","grapes"]   
+ let aar1=["apple","mango","banana","grapes"]   
  
 
-// console.log(aar1.reverse)
+console.log(aar1.reverse())
 
 
 // ===================slice method============================
 // let aar1=["apple","mango","banana","grapes"] 
-// let aar1=["1","2","3","5","7"]  
+// let aar1=["1","2","3","5","7","7"]  
 // console.log(aar1.slice(2,5));
 // console.log(aar1.slice(0,-1));
 // =====================splice method=====================
@@ -41,7 +41,7 @@ function himanshi(){
 
 //  console.log(aar1);
 
- let aar1=[1,3,7,6,2,4,5]
- console.log(aar1.sort());
+//  let aar1=[1,3,7,6,2,4,5]
+//  console.log(aar1.sort());
 
 }
